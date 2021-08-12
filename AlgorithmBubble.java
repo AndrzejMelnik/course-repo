@@ -20,7 +20,7 @@ public class AlgorithmBubble {
 			if(flag == 0) break;
 		  n--;
 		} while (n > 1);	
-		System.out.println("Liczba porównañ: " + count);
+		System.out.println("Liczba porownan: " + count);
 		System.out.println("Posortowana tablica: ");
 		for(int i = 0; i < tab.length; i++) {
 			System.out.print(tab[i] + " ");
