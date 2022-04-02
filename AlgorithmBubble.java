@@ -1,3 +1,4 @@
+//Jedna z implementacji algorytmu sortowania
 public class AlgorithmBubble {
 	public static void main(String[] args) {
 		int[] tab = {1, 2, 3};
